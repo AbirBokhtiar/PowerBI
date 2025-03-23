@@ -34,6 +34,8 @@ This dashboard provides a clear and interactive snapshot of business performance
 
 ---
 
+![Dashboard Image](https://github.com/AbirBokhtiar/PowerBI/blob/main/Dashboard.JPG)
+
 ## ✅ Key Insights & Recommendations
 
 - **Capitalize on seasonal peaks** (Oct–Dec) with targeted promotional campaigns.
