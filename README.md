@@ -30,9 +30,10 @@ Map visualization shows strong sales concentrations in key U.S. regions.
 
 ✅ Key Insights & Recommendations
 
-Capitalize on seasonal peaks (Oct–Dec) with targeted promotional campaigns.
-Focus marketing and logistics efforts on high-performing regions.
-Leverage top-selling products to optimize inventory and product placement.
-Enhance customer satisfaction by supporting preferred payment modes.
-Improve delivery efficiency to reduce average delivery days.
+- Capitalize on seasonal peaks (Oct–Dec) with targeted promotional campaigns.
+- Focus marketing and logistics efforts on high-performing regions.
+- Leverage top-selling products to optimize inventory and product placement.
+- Enhance customer satisfaction by supporting preferred payment modes.
+- Improve delivery efficiency to reduce average delivery days.
+  
 This dashboard empowers stakeholders to make smarter, faster business decisions by offering a complete view of sales performance, customer behavior, and operational efficiency.
